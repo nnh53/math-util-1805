@@ -9,7 +9,7 @@
 * ...
 
 ### Screenshots
-![Source code and Unit Test](<img width="960" alt="image" src="https://github.com/nnh53/math-util-1805/assets/113448161/0b290c70-8649-4cca-81e5-efdcb64667e8">)
+![Source code and Unit Test](https://github.com/nnh53/math-util-1805/assets/113448161/0b290c70-8649-4cca-81e5-efdcb64667e8)
 
 
 
